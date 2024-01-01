@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "telegram-bot-template"
+name = "aiogram-telegram-bot"
 version = "0.1.0"
 description = "Template for telegram bot"
 authors = ["donBarbos <donbarbos@proton.me>"]
